@@ -1,0 +1,58 @@
+[2025-09-25T05:47:20.052Z] INFO: Server running at http://localhost:5000
+[2025-09-25T05:47:34.783Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:47:34.790Z] INFO: Shortcode created: sai6721 -> https://www.overleaf.com/project/6858d4e5feb3ce89b9305cb6
+[2025-09-25T05:47:42.667Z] INFO: Incoming request: GET /shorty/stats/sai6721
+[2025-09-25T05:47:42.669Z] INFO: Stats requested for shortcode: sai6721
+[2025-09-25T05:48:07.895Z] INFO: Incoming request: GET /shorty/sai6721
+[2025-09-25T05:48:07.897Z] INFO: Redirecting shortcode: sai6721, clicks: 1
+[2025-09-25T05:48:20.972Z] INFO: Incoming request: GET /shorty/stats/sai6721
+[2025-09-25T05:48:20.973Z] INFO: Stats requested for shortcode: sai6721
+[2025-09-25T05:48:59.742Z] INFO: Incoming request: GET /shorty/sai6721
+[2025-09-25T05:48:59.742Z] INFO: Redirecting shortcode: sai6721, clicks: 2
+[2025-09-25T05:49:38.072Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:49:48.347Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:49:48.352Z] INFO: Shortcode created: 1234 -> http://localhost:5000/shorty/sai6721
+[2025-09-25T05:50:07.553Z] INFO: Incoming request: GET /shorty/1234
+[2025-09-25T05:50:07.553Z] INFO: Redirecting shortcode: 1234, clicks: 1
+[2025-09-25T05:50:07.565Z] INFO: Incoming request: GET /shorty/sai6721
+[2025-09-25T05:50:07.565Z] INFO: Redirecting shortcode: sai6721, clicks: 3
+[2025-09-25T05:50:16.349Z] INFO: Incoming request: GET /shorty/stats/1234
+[2025-09-25T05:50:16.349Z] INFO: Stats requested for shortcode: 1234
+[2025-09-25T05:50:22.759Z] INFO: Incoming request: GET /shorty/stats/6721
+[2025-09-25T05:50:22.759Z] WARN: GET /shorty/stats/6721 failed: shortcode not found
+[2025-09-25T05:50:29.686Z] INFO: Incoming request: GET /shorty/stats/sai6721
+[2025-09-25T05:50:29.686Z] INFO: Stats requested for shortcode: sai6721
+[2025-09-25T05:52:24.462Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:53:17.560Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:54:46.368Z] INFO: Server running at http://localhost:5000
+[2025-09-25T05:54:51.458Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:54:51.461Z] INFO: Shortcode created: 00001 -> http://localhost:5000/shorty/sai6721
+[2025-09-25T05:54:54.122Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:54:54.126Z] INFO: Shortcode created: 00002 -> http://localhost:5000/shorty/sai6721
+[2025-09-25T05:54:55.171Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:54:55.176Z] INFO: Shortcode created: 00003 -> http://localhost:5000/shorty/sai6721
+[2025-09-25T05:54:55.388Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:54:55.393Z] INFO: Shortcode created: 00004 -> http://localhost:5000/shorty/sai6721
+[2025-09-25T05:54:55.789Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:54:55.791Z] INFO: Shortcode created: 00005 -> http://localhost:5000/shorty/sai6721
+[2025-09-25T05:54:55.960Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:54:55.981Z] INFO: Shortcode created: 00006 -> http://localhost:5000/shorty/sai6721
+[2025-09-25T05:54:56.142Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:54:56.146Z] INFO: Shortcode created: 00007 -> http://localhost:5000/shorty/sai6721
+[2025-09-25T05:54:56.311Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:54:56.319Z] INFO: Shortcode created: 00008 -> http://localhost:5000/shorty/sai6721
+[2025-09-25T05:54:56.486Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:54:56.488Z] INFO: Shortcode created: 00009 -> http://localhost:5000/shorty/sai6721
+[2025-09-25T05:54:56.701Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:54:56.711Z] INFO: Shortcode created: 0000a -> http://localhost:5000/shorty/sai6721
+[2025-09-25T05:55:10.047Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:55:10.051Z] INFO: Shortcode created: 0000b -> https://www.overleaf.com/project/6858d4e5feb3ce89b9305cb6
+[2025-09-25T05:55:33.004Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:55:33.009Z] INFO: Shortcode created: 0000c -> https://www.overleaf.com/project/6858d4e5feb3ce89b9305cb6
+[2025-09-25T05:55:34.492Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:55:34.494Z] INFO: Shortcode created: 0000d -> https://www.overleaf.com/project/6858d4e5feb3ce89b9305cb6
+[2025-09-25T05:57:30.748Z] INFO: Server running at http://localhost:5000
+[2025-09-25T05:57:35.638Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:57:35.640Z] INFO: Shortcode created: ioUB8g9XKu9m7iPL -> https://www.overleaf.com/project/6858d4e5feb3ce89b9305cb6
+[2025-09-25T05:58:02.324Z] INFO: Incoming request: POST /shorty/shorten
+[2025-09-25T05:58:02.326Z] INFO: Shortcode created: E7wzrgn1JJD9S1KX -> https://www.overleaf.com/project/6858d4e5feb3ce89b9305cb6
